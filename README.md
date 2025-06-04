@@ -1,9 +1,6 @@
-## Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xmark2909&label=Profile%20views&color=0e75b6&style=flat" alt="0xichikawa" /> </p>
 
-<!--
-**leal1632333/leal1632333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋 I'm Software Engineer.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
